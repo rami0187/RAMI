@@ -1,0 +1,16 @@
+/*
+Theme Name: RACC Engineering Consulting
+Theme URI: https://www.romoz-alfekr.sa
+Author: RACC — Romoz Al-Fekr Engineering Consulting
+Author URI: https://www.romoz-alfekr.sa
+Description: Bilingual (English / Arabic, RTL) corporate theme for RACC Engineering Consulting — شركة رموز الفكر للاستشارات الهندسية, Jeddah. Includes Sectors & Services, Projects, Team, Accreditations and Contact sections, all editable from the WordPress admin.
+Version: 1.0.0
+Requires at least: 6.2
+Tested up to: 6.6
+Requires PHP: 7.4
+License: Proprietary
+Text Domain: racc
+Tags: rtl-language-support, one-column, custom-logo, custom-menu, featured-images, translation-ready
+*/
+
+/* The real stylesheet lives in assets/css/main.css (enqueued by functions.php). */
